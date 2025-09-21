@@ -1,0 +1,2 @@
+
+MAX_CHAR_COUNT = 10000
