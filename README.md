@@ -7,8 +7,8 @@ A simple, command-line AI agent built with Python that uses the Google Gemini AP
 ## Features
 
 - **Interactive Chat:** Ask questions and get responses directly from the Gemini model.
-- **File Operations:** (Future feature) Will be able to read, write, and list files.
-- **Code Execution:** (Future feature) Capable of running Python scripts in a sandboxed environment.
+- **File Operations:** Will be able to read, write, and list files.
+- **Code Execution:** Capable of running Python scripts in a sandboxed environment.
 
 ---
 
