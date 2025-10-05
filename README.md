@@ -7,8 +7,8 @@ A simple, command-line AI agent built with Python that uses the Google Gemini AP
 ## Features
 
 - **Interactive Chat:** Ask questions and get responses directly from the Gemini model.
-- **File Operations:**  Will be able to read, write, and list files.
-- **Code Execution:** Capable of running Python scripts in a sandboxed environment.
+- **File Operations:** (Future feature) Will be able to read, write, and list files.
+- **Code Execution:** (Future feature) Capable of running Python scripts in a sandboxed environment.
 
 ---
 
@@ -31,7 +31,9 @@ Follow these steps to get the project running on your local machine.
 git clone <https://github.com/abhisheksuga/MyAiAgent>
 cd <myaiagent>
 
+```
 ### 2. **Create a virtual environment using `uv`**
+
 
 It's recommended to use a virtual environment to manage dependencies.
 
@@ -39,7 +41,7 @@ It's recommended to use a virtual environment to manage dependencies.
 uv venv
 source .venv/bin/activate
 
-
+```
 ### 3. **Install dependencies using `uv`**
 
 Install all required packages from your `pyproject.toml` or `requirements.txt` file.
@@ -47,7 +49,7 @@ Install all required packages from your `pyproject.toml` or `requirements.txt` f
 ```bash
 uv pip install -r requirements.txt
 
-
+```
 
 ### 4. **Set up your API Key**
 
