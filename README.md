@@ -63,4 +63,4 @@ Create a `.env` file in the root of the project and add your Gemini API key:
 To run the main application, execute the `main.py` script from your terminal:
 
 ```bash
-uv main.py
+uv run main.py "<YOUR PROMPT>"
